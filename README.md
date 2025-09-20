@@ -17,3 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthv-creates&show_icons=true&locale=en&layout=compact" alt="pruthv-creates" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthv-creates&" alt="pruthv-creates" /></p>
+
+
+<img src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/output/snake.svg" alt="Snake animation" />
