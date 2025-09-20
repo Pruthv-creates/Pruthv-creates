@@ -1,9 +1,19 @@
 <h1 align="center">Hello World 👋, I'm Pruthviraj Kachate</h1>
-<h3 align="center">An Aspiring Engineer from India</h3>
+<table align="center">
+  <tr>
+    <td width="70%" valign="middle">
+      <p>
+        Sophomore at <b>@TSEC / Thadomal Shahani Engineering College</b>, passionate about software development, problem-solving, and building scalable solutions. <br><br>
+        Currently exploring <b>Data Structures & Algorithms</b> to strengthen my programming fundamentals. I’m also deeply interested in the fields of <b>Artificial Intelligence</b> and <b>Machine Learning</b>, with a focus on applying them to real-world problems and intelligent automation. <br><br>
+        Excited to contribute to tech-driven solutions and collaborate on innovative projects. Always open to learning, networking, and exploring new opportunities in the industry.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Frameworks**
-
-- 📫 How to reach me **pruthvirajkachate2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthv-creates&" alt="pruthv-creates" /></p>
 
-
-<img src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/output/snake.svg" alt="Snake animation" />
+<div align="center">
+	
+![snake gif](https://github.com/Pruthv-creates/Pruthv-creates/blob/output/github-snake-dark.svg)
+</div>
