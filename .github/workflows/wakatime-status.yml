@@ -26,4 +26,4 @@ jobs:
           # Commit message (customizable)
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           # Time range of stats (you can change to last_30_days, all_time, etc.)
-          STATS_RANGE: "last_7_days"
+          STATS_RANGE: "all_time"
