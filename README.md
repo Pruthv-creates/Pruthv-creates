@@ -77,6 +77,14 @@
   </table>
 </p>
 
+
+<!-- Put this in README.md -->
+<img
+  src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/main/images/stat.svg"
+  alt="WakaTime Coding Activity"
+/>
+
+
 <div align="center">
 	
 ![snake gif](https://github.com/Pruthv-creates/Pruthv-creates/blob/output/github-snake-dark.svg)
