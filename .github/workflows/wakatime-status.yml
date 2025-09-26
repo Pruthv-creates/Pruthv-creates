@@ -2,9 +2,11 @@ name: WakaTime status update
 
 on:
   schedule:
-    # Runs every day at 00:01 UTC
-    - cron: "1 0 * * *"
-  workflow_dispatch:  # lets you run it manually from Actions tab
+    # Runs every 6 hours at minute 1 (00:01, 06:01, 12:01, 18:01 UTC)
+    - cron: "1 */6 * * *"
+  push:
+    branches: [ main ]   # Runs on every push to main branch
+  workflow_dispatch:      # Allows manual trigger from Actions tab
 
 permissions:
   contents: write  # required so it can commit changes
@@ -21,9 +23,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # GitHub token for committing
           GITHUB_TOKEN: ${{ github.token }}
-          # Your repo branch (you’re using main, not master)
+          # Your repo branch (main in your case)
           BRANCH: "main"
-          # Commit message (customizable)
+          # Commit message
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          # Time range of stats (you can change to last_30_days, all_time, etc.)
+          # Show lifetime stats
           STATS_RANGE: "all_time"
