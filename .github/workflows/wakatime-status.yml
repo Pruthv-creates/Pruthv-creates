@@ -1,0 +1,29 @@
+name: WakaTime status update
+
+on:
+  schedule:
+    # Runs every day at 00:01 UTC
+    - cron: "1 0 * * *"
+  workflow_dispatch:  # lets you run it manually from Actions tab
+
+permissions:
+  contents: write  # required so it can commit changes
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      # This action generates your stat.svg
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          # WakaTime API key (from Secrets)
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # GitHub token for committing
+          GITHUB_TOKEN: ${{ github.token }}
+          # Your repo branch (you’re using main, not master)
+          BRANCH: "main"
+          # Commit message (customizable)
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          # Time range of stats (you can change to last_30_days, all_time, etc.)
+          STATS_RANGE: "last_7_days"
