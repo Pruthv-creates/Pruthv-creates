@@ -79,13 +79,11 @@
 
 
 <!-- Put this in README.md -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/main/images/stat.svg" 
-    alt="WakaTime Coding Activity" 
-    style="max-width: 80%; height: auto;" 
-  />
-</p>
+<img 
+  src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/main/images/stat.svg" 
+  alt="WakaTime Coding Activity"
+/>
+
 
 
 <div align="center">
