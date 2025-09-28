@@ -16,16 +16,17 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      # This action generates your stat.svg
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
-          # WakaTime API key (from Secrets)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # GitHub token for committing
           GITHUB_TOKEN: ${{ github.token }}
-          # Your repo branch (main in your case)
           BRANCH: "main"
-          # Commit message
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          # Show lifetime stats
-          STATS_RANGE: "all_time"
+          
+          # ✅ Stats config
+          STATS_RANGE: "last_30_days"  # <-- shows last month’s data
+          SHOW_TITLE: "true"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          SHOW_LANGUAGES: "true"
+          LANG_COUNT: "10"              # Top 10 languages
