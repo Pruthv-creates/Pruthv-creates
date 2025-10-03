@@ -91,4 +91,3 @@
 ![snake gif](https://github.com/Pruthv-creates/Pruthv-creates/blob/output/github-snake-dark.svg)
 </div>
 
-[![Hits](https://hits.sh/github.com/Pruthv-creates.svg?label=live%20viewers%3A)](https://hits.sh/github.com/Pruthv-creates/)
