@@ -38,6 +38,8 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
