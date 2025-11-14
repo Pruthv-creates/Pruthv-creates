@@ -1,0 +1,14 @@
+<svg width="100%" height="20" viewBox="0 0 1920 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bottomgrad">
+      <stop offset="0%" stop-color="#ff00ff">
+        <animate attributeName="stop-color" values="#ff00ff; #00eaff; #0066ff; #ff00ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00eaff">
+        <animate attributeName="stop-color" values="#00eaff; #0066ff; #ff00ff; #00eaff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="4" fill="url(#bottomgrad)" rx="4" />
+</svg>
