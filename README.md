@@ -12,7 +12,7 @@
   <tr>
     <td width="70%" valign="middle">
      
-<h1>About Me:</h1>
+<h1>👨‍💻 About Me:</h1>
 
 <p>
   <strong>Hello World 👋 , I'm Pruthviraj Kachate</strong> <br><br> Sophomore at 
@@ -34,18 +34,18 @@
 
 
 
-<h1 align="left">Connect with me:</h1>
+<h1 align="left">🔗 Connect with me:</h1>
 <div align="left">
  <a href="https://www.linkedin.com/in/pruthviraj-kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /> </a>
   <a href="mailto:pruthvirajkachate2005@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /> </a>
-   <a href="https://discord.com/users/its_me_pruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+   <a href="https://discord.com/users/its_me_pruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  /> </a>
    <a href="https://t.me/itsmepruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  /> </a>
   <a href="https://twitter.com/Pruthvirajk2005" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /> </a>
   <a href="https://instagram.com/pruthviraj_kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  /> </a>
 </div>
 
 
-<h1 align="left">Tech Stack:</h1>
+<h1 align="left">🛠️ Tech Stack:</h1>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="20" />
@@ -75,13 +75,13 @@
 </div>
 <br>
 
-<h1 align="left">Github Repos stats:</h1>
+<h1 align="left">📊 Github Repo Metrics:</h1>
 <p align="center">
   <table>
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=Pruthv-creates&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Pruthv-creates&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" 
           alt="languages graph" 
           height="300px" />
       </td>
@@ -95,7 +95,7 @@
   </table>
 </p>
 
-
+<h1 align="left">⌛ Monthly Insights:</h1>
 <!-- Put this in README.md -->
 <img 
   src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/main/images/stat.svg" 
@@ -103,7 +103,7 @@
 />
 
 
-
+<h1>🐍 Contribution Snake:</h1>
 <div align="center">
 	
 ![snake gif](https://github.com/Pruthv-creates/Pruthv-creates/blob/output/github-snake-dark.svg)
