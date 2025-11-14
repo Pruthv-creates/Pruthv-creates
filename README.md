@@ -1,3 +1,9 @@
+<!-- CYBERPUNK ANIMATED BORDER -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/main/assets/cyberpunk-frame-top.svg" width="100%">
+</div>
+
 <table align="center">
   <tr>
     <td width="70%" valign="middle">
@@ -17,6 +23,11 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/main/assets/cyberpunk-frame-bottom.svg" width="100%">
+</div>
+
 
 
 <h1 align="left">Connect with me:</h1>
