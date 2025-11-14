@@ -2,7 +2,11 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pruthv-creates/Pruthv-creates/main/assets/cyberpunk-frame-top.svg" width="100%">
+
+  <!-- TYPING ANIMATION -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=700&color=00FFF9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI/ML+Enthusiast;Problem+Solver..." />
 </div>
+
 
 <table align="center">
   <tr>
@@ -32,7 +36,7 @@
 
 <h1 align="left">Connect with me:</h1>
 <div align="left">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/pruthviraj-kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /> </a>
+ <a href="https://www.linkedin.com/in/pruthviraj-kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /> </a>
   <a href="mailto:pruthvirajkachate2005@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /> </a>
    <a href="https://discord.com/users/its_me_pruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
    <a href="https://t.me/itsmepruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  /> </a>
@@ -71,6 +75,7 @@
 </div>
 <br>
 
+<h1 align="left">Github Repos stats:</h1>
 <p align="center">
   <table>
     <tr>
