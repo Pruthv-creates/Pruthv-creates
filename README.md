@@ -36,45 +36,84 @@
 
 <h1 align="left">🔗 Connect with me :</h1>
 <div align="left">
- <a href="https://www.linkedin.com/in/pruthviraj-kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /> </a>
-  <a href="mailto:pruthvirajkachate2005@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /> </a>
-   <a href="https://discord.com/users/its_me_pruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  /> </a>
-   <a href="https://t.me/itsmepruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  /> </a>
-  <a href="https://twitter.com/Pruthvirajk2005" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  /> </a>
-  <a href="https://instagram.com/pruthviraj_kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  /> </a>
+ <a href="https://www.linkedin.com/in/pruthviraj-kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  /> </a>
+  <a href="mailto:pruthvirajkachate2005@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  /> </a>
+   <a href="https://discord.com/users/its_me_pruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="30" alt="discord logo"  /> </a>
+   <a href="https://t.me/itsmepruthv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="30" alt="telegram logo"  /> </a>
+  <a href="https://twitter.com/Pruthvirajk2005" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="30" alt="twitter logo"  /> </a>
+  <a href="https://instagram.com/pruthviraj_kachate" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo"  /> </a>
 </div>
 
 
 <h1 align="left"> 🛠️ Tech Stack :</h1>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="20" />
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="30" alt="working gif" />
+<a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" />
+</a>
+<img width="10" />
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="46" alt="c logo" />
+</a>
+<img width="10" />
+
+<a href="https://docs.python.org/3/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+</a>
+<img width="10" />
+
+<a href="https://dev.mysql.com/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+</a>
+<img width="10" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+</a>
+<img width="10" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+</a>
+<img width="10" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+</a>
+<img width="10" />
+
+<a href="https://docs.gitlab.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo" />
+</a>
+<img width="10" />
+
+<a href="https://react.dev/learn" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+</a>
+<img width="10" />
+
+<a href="https://vitejs.dev/guide/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo" />
+</a>
+<img width="10" />
+
+<a href="https://getbootstrap.com/docs/" target="_blank">
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo" />
+</a>
+<img width="10" />
+
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+</a>
+<img width="10" />
+
+<a href="https://docs.github.com/en" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+</a>
+<img width="10" />
+
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="50" alt="working gif" />
   <span>. . .</span>
 </div>
 <br>
