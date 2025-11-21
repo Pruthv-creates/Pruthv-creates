@@ -130,7 +130,7 @@
       </td>
       <td>
         <img 
-          src="https://streak-stats.demolab.com?user=Pruthv-creates&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
+          src="https://streak-stats.demolab.com?user=Pruthv-creates&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
           alt="streak graph" 
           height="300px" />
       </td>
